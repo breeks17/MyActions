@@ -8,7 +8,7 @@
 
 [此方式亲测可行，请放心食用，点击查看如何使用 reposync 的方式进行同步代码](backup/reposync.md)
 
-[此方式亲测可行，请放心食用，点击查看如何使用 reposync 的方式进行同步代码](backup/reposync.md)
+[此方式亲测可行，请放心食用，点击查看如何使用 repos人情味热无ync 的方式进行同步代码](backup/reposync.md)
 
 ## 特别声明:
 
